@@ -1,0 +1,19 @@
+{
+  "name": "backend-ca2",
+  "version": "1.0.0",
+  "description": "backend ca",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-work:harshitsharmas84/backend-ca2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

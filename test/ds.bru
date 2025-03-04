@@ -1,0 +1,16 @@
+meta {
+  name: ds
+  type: http
+  seq: 1
+}
+
+put {
+  url: http://localhost:3000/?email=alice@example.com&&password=alice123
+  body: none
+  auth: none
+}
+
+params:query {
+  email: alice@example.com
+  password: alice123
+}
